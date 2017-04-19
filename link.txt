@@ -1,0 +1,17 @@
+How to Freeze Columns Using Javascript and HTML
+http://www.massless.org/_tests/grid1/?s=1&r=40&c=40
+http://bytesare.us/cms/index.php/demo-apps/html-table-with-fixed-header-and-first-column
+http://jsfiddle.net/cfr94p3w/17/
+http://meetselva.github.io/fixed-table-rows-cols/
+
+
+Export Table
+https://datatables.net/extensions/buttons/examples/html5/simple.html
+https://github.com/hhurz/tableExport.jquery.plugin
+http://phpflow.com/php/export-html-table-data-to-excel-csv-png-and-pdf-using-jquery-plugin/
+https://github.com/erwanjegouzo/tableExportjqueryplugin
+http://jsfiddle.net/n2x8W/
+http://rawgit.com/MrRio/jsPDF/master/docs/
+
+php
+https://tcpdf.org/examples/
